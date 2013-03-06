@@ -4,7 +4,30 @@
 # ----------------------------------------
 # DESCRIPTION
 # ===========
-#
+# result
+# ('Size of pool', 4)
+# ('Size of pool', 4)
+# ('Size of pool', 4)
+# ('Size of pool', 4)
+# ('Size of pool', 4)
+# ('Size of pool', 4)
+# ('Size of pool', 4)
+# ('Size of pool', 4)
+# ('Size of pool', 2)
+# ('Size of pool', 2)
+# Hello, 0
+# Hello, 1
+# Hello, 2
+# Hello, 3
+# Hello, 4
+# Hello, 5
+# Hello, 6
+# Hello, 7
+# Hello, 8
+# Hello, 9
+# Size of gevent pool is 4
+# Total jobs is 10
+# Cost time: 3.00399494171
 # ----------------------------------------
 
 # build-in, 3rd party and my modules
